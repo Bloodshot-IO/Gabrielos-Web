@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+.env
+*.local.php
+/staging
+.DS_Store
+Thumbs.db
+/.vscode
+/.idea
