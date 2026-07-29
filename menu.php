@@ -398,7 +398,7 @@
                 </div>
                 <div class="promo-banner">
                     <div class="promo-corners"></div>
-                    <span class="promo-badge">Nuevo</span>
+                    
                     <img class="promo-banner-img" src="imgmenu/pizzasarte/promochida.jpeg" alt="Promoción Gabrielos Pizza"
                          loading="lazy">
                     <div class="promo-vignette"></div>
