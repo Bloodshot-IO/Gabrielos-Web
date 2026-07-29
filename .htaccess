@@ -1,3 +1,9 @@
+RewriteEngine On
+
+# --- FORZAR HTTPS ---
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 # =============================================
 # GABRIELOS PIZZA - OPTIMIZACIÓN DE RENDIMIENTO
 # =============================================
@@ -66,3 +72,10 @@
 
 # --- PREVENIR LISTADO DE DIRECTORIOS ---
 Options -Indexes
+
+# --- SEGURIDAD CI/CD ---
+RedirectMatch 404 /\.git
+
+<FilesMatch "\.(md|yml|yaml|lock|example)$">
+Require all denied
+</FilesMatch>
