@@ -414,7 +414,7 @@
             <div class="ingredientes-wrap" style="margin-bottom: 30px;">
 
                 <fieldset class="tabla-ingredientes">
-                    <legend>INGREDIENTES</legend>
+                    <legend>INGREDIENTES </legend>
 
                     <div class="grid-layout ingredientes border-bottom">
                         <div class="item">Pepperoni</div>
