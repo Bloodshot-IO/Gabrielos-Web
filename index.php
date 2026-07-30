@@ -168,7 +168,7 @@
 
             <div class="image-column fade-in-right">
                 <div class="event-img-wrapper">
-                    <img loading="lazy" src="imgmain/vendemosalcohol.jpg" alt="Evento privado en Gabrielos Pizza" class="event-img-offset">
+                    <img loading="lazy" src="imgmain/reserva.jpeg" alt="Evento privado en Gabrielos Pizza" class="event-img-offset">
                 </div>
             </div>
 
