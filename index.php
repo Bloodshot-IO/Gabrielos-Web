@@ -60,54 +60,6 @@
         <div class="container grid-2">
             
             <div class="image-column fade-in-left">
-                <img loading="lazy" src="imgmain/dosporuno.jpeg" alt="Promoción Boneless y Cerveza Stella Artois" class="promo-rect-img">
-            </div>
-
-            <div class="text-column fade-in-right">
-                <span class="badge">SOLO LOS MIÉRCOLES Y JUEVES</span>
-                <h2 class="section-title">DOBLE SABOR, <span class="text-gold">MITAD DE PRECIO</span></h2>
-                <span class="promo-subtitle">BONELESS AL 2x1</span>
-                
-                <p>La excusa perfecta para cortar la semana. Disfruta de nuestros boneless premium: trozos de pechuga de pollo, empanizados artesanalmente y bañados en nuestras salsas exclusivas.</p>
-                <p><strong>El maridaje sugerido:</strong> Acompaña tu orden con una Stella Artois o tu cerveza nacional favorita para resaltar las notas picantes y crujientes.</p>
-                
-                <div class="promo-features">
-                    <div class="promo-tag"><i class="fas fa-drumstick-bite"></i> 100% Pechuga</div>
-                    <div class="promo-tag"><i class="fas fa-beer"></i> Venta de Alcohol</div>
-                    <div class="promo-tag"><i class="fas fa-tv"></i> Zona Music</div>
-                </div>
-
-
-            </div>
-
-        </div>
-    </section>
-    <section class="section-padding bg-dark-grey">
-        <div class="container grid-2">
-            
-            <div class="image-column fade-in-left">
-                <img loading="lazy" src="imgmain/pizzados1.jpeg" alt="Promoción Boneless y Cerveza Stella Artois" class="promo-rect-img">
-            </div>
-
-            <div class="text-column fade-in-right">
-                <span class="badge">SOLO LOS MIÉRCOLES Y JUEVES</span>
-                <h2 class="section-title">¿UNA PIZZA...? <span class="text-gold">MEJOR LLEVATE DOS</span></h2>
-                <span class="promo-subtitle"><span class="text-gold">COMPRA UNA Y LLEVATE LA SEGUNDA AL 50% DE DESCUENTO</span> DE IGUAL O MENOR PRECIO</span>
-                
-
-                <p><strong>Se excluyen Chicagos, Philadelphia y Rellenas.</strong></p>
-
-
-
-            </div>
-
-        </div>
-    </section>
-    </section>
-    <section class="section-padding bg-dark-grey">
-        <div class="container grid-2">
-            
-            <div class="image-column fade-in-left">
                 <img loading="lazy" src="imgmain/cumple1.jpeg" alt="Promoción Boneless y Cerveza Stella Artois" class="promo-rect-img">
             </div>
 
