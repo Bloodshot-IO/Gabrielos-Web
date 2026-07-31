@@ -1407,19 +1407,6 @@
                         </div>
                     </div>
 
-                    <!-- AGUAS DE JAMAICA -->
-                    <div class="menu-item fade-in-up cerveza-card bebida-card" data-category="Bebidas sin alcohol">
-                        <div class="cerveza-header bebida-header">
-                            <i class="fas fa-glass-whiskey"></i>
-                            <h3>AGUAS DE JAMAICA <span class="cerveza-ml">(500ml)</span></h3>
-                        </div>
-                        <div class="cerveza-list">
-                            <div class="cerveza-row"><span class="cerveza-name">Agua de Jamaica</span><span class="cerveza-price">$40</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Agua de Jamaica con Limón</span><span class="cerveza-price">$40</span></div>
-                            <div class="cerveza-row jarra-row"><span class="cerveza-name">Jarra </span><span class="cerveza-price">$179</span></div>
-                        </div>
-                    </div>
-
                     <!-- AGUAS DE FRUTOS ROJOS -->
                     <div class="menu-item fade-in-up cerveza-card bebida-card" data-category="Bebidas sin alcohol">
                         <div class="cerveza-header bebida-header">
