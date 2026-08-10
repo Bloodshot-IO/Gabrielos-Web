@@ -11,5 +11,6 @@
     </footer>
 
     <script src="main.js" defer></script>
+    <script src="analytics-events.js" defer></script>
 </body>
 </html>
