@@ -1305,16 +1305,6 @@
 
                     <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
                         <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/frutosrojos.jpeg" alt="Frutos Rojos">
-                            <span class="price">$80</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>FRUTOS ROJOS (500ml)</h3>
-                            <p></p>
-                        </div>
-                    </div>
-                    <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
-                        <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/limonadafrutosrojos.jpeg" alt="Limonada de Frutos Rojos">
                             <span class="price">$55</span>
                         </div>
