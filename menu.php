@@ -226,13 +226,15 @@
                     opacity: 1;
                 }
 
-                /* Image */
+                /* Image / Video */
                 .promo-banner-img {
                     width: 100%;
+                    height: 100%;
                     aspect-ratio: auto;
-                    object-fit: contain;
+                    object-fit: cover;
                     display: block;
                     transition: transform 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+                    pointer-events: none;
                 }
                 .promo-banner:hover .promo-banner-img {
                     transform: scale(1.04);
@@ -399,8 +401,9 @@
                 <div class="promo-banner">
                     <div class="promo-corners"></div>
                     
-                    <img class="promo-banner-img" src="imgmenu/pizzasarte/promochida.jpeg" alt="Promoción Gabrielos Pizza"
-                         loading="lazy">
+                    <video class="promo-banner-img" autoplay muted loop playsinline preload="metadata">
+                        <source src="imgmenu/pizzasarte/video_publicidad_gabrielos.mp4" type="video/mp4">
+                    </video>
                     <div class="promo-vignette"></div>
                     <div class="promo-shimmer"></div>
                     
@@ -1211,7 +1214,7 @@
 
                     <div class="menu-item fade-in-up" data-category="Ensaladas">
                         <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/enspla.jpeg" alt="Ensalada Gabrielos">
+                            <img loading="lazy" src="imgmenu/pizzasarte/ensalada_gabrielos.jpeg" alt="Ensalada Gabrielos">
                             <span class="price">$159</span>
                         </div>
                         <div class="menu-info">
@@ -1265,27 +1268,7 @@
                     </div>
 
 
-                    <div class="menu-item fade-in-up" data-category="Postres">
-                        <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/nievefresa.jpeg" alt="Pastel de Nieve Fresa">
-                            <span class="price">$119</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>PASTEL DE NIEVE FRESA</h3>
-                            <p></p>
-                        </div>
-                    </div>
 
-                    <div class="menu-item fade-in-up" data-category="Postres">
-                        <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/milky.jpeg" alt="Pastel de Nieve Milky Way">
-                            <span class="price">$119</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>PASTEL DE NIEVE MILKY WAY</h3>
-                            <p></p>
-                        </div>
-                    </div>
 
                     <div class="menu-item fade-in-up" data-category="Postres">
                         <div class="menu-img">
@@ -1320,16 +1303,6 @@
                         </div>
                     </div>
 
-                    <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
-                        <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/frutosrojos.jpeg" alt="Frutos Rojos">
-                            <span class="price">$80</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>FRUTOS ROJOS (500ml)</h3>
-                            <p></p>
-                        </div>
-                    </div>
                     <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/limonadafrutosrojos.jpeg" alt="Limonada de Frutos Rojos">
@@ -1414,9 +1387,7 @@
                             <h3>AGUAS DE FRUTOS ROJOS</h3>
                         </div>
                         <div class="cerveza-list">
-                            <div class="cerveza-row"><span class="cerveza-name">Frutos Rojos <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$80</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Limonada de Frutos Rojos <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$55</span></div>
-                            <div class="cerveza-row jarra-row"><span class="cerveza-name">Jarra de Frutos Rojos </span><span class="cerveza-price">$320</span></div>
                             <div class="cerveza-row jarra-row"><span class="cerveza-name">Jarra de Limonada de Frutos Rojos </span><span class="cerveza-price">$220</span></div>
                         </div>
                     </div>
@@ -1429,12 +1400,9 @@
                         </div>
                         <div class="cerveza-list">
                             <div class="cerveza-row"><span class="cerveza-name">Jugo de Manzana <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Jugo de Mango <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
-                            
                             <div class="cerveza-row"><span class="cerveza-name">Jugo de Durazno <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Jugo de Naranja <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Fuzetea Limón <span class="cerveza-ml">(355ml)</span></span><span class="cerveza-price">$35</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Fuzetea Durazno <span class="cerveza-ml">(355ml)</span></span><span class="cerveza-price">$35</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Agua Embotellada <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$25</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Café Frío</span><span class="cerveza-price">$65</span></div>
                         </div>
@@ -1450,7 +1418,7 @@
                             <div class="cerveza-row"><span class="cerveza-name">Coca-Cola <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$40</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Coca-Cola Light <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$40</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Coca-Cola Sin Azúcar <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$40</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Topochico <span class="cerveza-ml">(355ml)</span></span><span class="cerveza-price">$35</span></div>
+                            <div class="cerveza-row"><span class="cerveza-name">Topochico <span class="cerveza-ml">(600ml)</span></span><span class="cerveza-price">$50</span></div>
                         </div>
                     </div>
 
