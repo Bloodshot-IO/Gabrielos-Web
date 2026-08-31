@@ -10,7 +10,13 @@
         </div>
     </footer>
 
-    <script src="main.js" defer></script>
-    <script src="analytics-events.js" defer></script>
+    <a href="https://www.google.com/search?client=ms-android-samsung-rvo1&hs=lq5U&sca_esv=4464ee469522b0d6&sxsrf=ANbL-n7IbD4ppNNTpaTz4eJ7T1a95hGLTA:1776931339151&q=opiniones+de+gabrielo%27s+pizzeria&uds=ALYpb_lbwLgHhwHVODTJiHOOCZKZ8LKizNXVX8Sao_vPqbRwzNsJLQaX-Sioq3GTZkNW3SX3x2eat03AQWlMPjAxp7-SzKq-2NBSSWO7NKVHVwIEUWYl1NiKiQrtarNk7ut7fEiJJH22Vw_1iXDG4hb4lVVnaBOQxfgVThyM1AGNK4Ke1gsJd9d84CZFQq1pD4hlwCZRcrE7onl_pseIhLPggFnh5FiMqa6nysyk0ljLZ2gbFWsGEYM8Pvlor8UROg5EUoijJi6QNlzeWuIqH6KJDyEWlxVojFBMSlhqXQElJz3MC_0lhHOu6MCMY95lJ0zs0xhEdtz0fo5npn0WQunKINCSCGofoZjf_t5bvv5tcRmFYZar7oRsDps9EMDItWC05EhVpf0Z33uKWAj_IJgtfR6EM7MTxlJNaZf84-BYTDTD9bO5kOsPii8Ox7h_1Mx_iDfJD6nZosMz_0J8tILtQpyLZIIsu9-lsAaVfgn0-MqKyreHPbjOUaH4q5MNeJ4z5Qf9a8tf&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOdlinJgS9TDtmDk11r-0-9ReW8EZKUmELLANITavQO_mUW_-A7Wq0jY3wT8JjiCBoaaC2gW-QjOoJb4PlTXk1m45orzPKC20snRTLa-x-6CSvHay2Q%3D%3D&sa=X&sqi=2&ved=2ahUKEwjKp4qKwYOUAxVzl2oFHdteMYIQk8gLegQIGRAB&ictx=1&stq=1&cs=1&lei=C9LpaYr2CPOuqtsP273FkQg#ebo=4"
+       target="_blank" rel="noopener" class="reviews-cta" aria-label="Ver reseñas de Google">
+        <i class="fab fa-google"></i>
+        <span>¡Deja tu reseña!</span>
+    </a>
+
+    <script src="main.js?v=<?php echo @filemtime(dirname(__DIR__) . '/main.js') ?: '1'; ?>" defer></script>
+    <script src="analytics-events.js?v=<?php echo @filemtime(dirname(__DIR__) . '/analytics-events.js') ?: '1'; ?>" defer></script>
 </body>
 </html>
