@@ -594,7 +594,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/2ing.jpeg" alt="Pizza 2 Ingredientes">
-                            <span class="price">$225</span>
+                            <span class="price">$235</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA 2 INGREDIENTES</h3>
@@ -605,7 +605,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/lovers.jpeg" alt="Pepperoni Lovers">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PEPPERONI LOVERS</h3>
@@ -616,7 +616,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/gabrielos.jpeg" alt="Gabrielos Pizza">
-                            <span class="price">$225</span>
+                            <span class="price">$235</span>
                         </div>
                         <div class="menu-info">
                             <h3>GABRIELOS PIZZA</h3>
@@ -627,7 +627,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/meat.jpeg" alt="Meat Lovers">
-                            <span class="price">$239</span>
+                            <span class="price">$249</span>
                         </div>
                         <div class="menu-info">
                             <h3>MEAT LOVERS</h3>
@@ -638,7 +638,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/americana.jpeg" alt="Americana">
-                            <span class="price">$225</span>
+                            <span class="price">$235</span>
                         </div>
                         <div class="menu-info">
                             <h3>AMERICANA</h3>
@@ -649,7 +649,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/chorizo.jpeg" alt="Pizza con Chorizo">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA CON CHORIZO</h3>
@@ -660,7 +660,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/hawai.jpeg" alt="Hawaiana">
-                            <span class="price">$225</span>
+                            <span class="price">$235</span>
                         </div>
                         <div class="menu-info">
                             <h3>HAWAIANA</h3>
@@ -671,7 +671,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/suprema.jpeg" alt="Suprema">
-                            <span class="price">$245</span>
+                            <span class="price">$255</span>
                         </div>
                         <div class="menu-info">
                             <h3>SUPREMA</h3>
@@ -682,7 +682,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/conpollo.jpeg" alt="Pizza con Pollo">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA CON POLLO</h3>
@@ -693,7 +693,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/pizzaboneless.jpeg" alt="Pizza Boneless">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA BONELESS</h3>
@@ -704,7 +704,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/pizzaalfredo.jpeg" alt="Pizza Alfredo">
-                            <span class="price">$265</span>
+                            <span class="price">$275</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA ALFREDO</h3>
@@ -715,7 +715,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/alpastor.jpeg" alt="Pizza al Pastor">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA AL PASTOR</h3>
@@ -726,7 +726,7 @@
                     <div class="menu-item fade-in-up" data-category="Pizzas Artesanales">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ramos.jpeg" alt="Pizza Chicharrón de la Ramos">
-                            <span class="price">$255</span>
+                            <span class="price">$265</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA CHICHARRÓN DE LA RAMOS</h3>
@@ -739,7 +739,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/norteña.jpeg" alt="Piña Norteña">
-                            <span class="price">$299</span>
+                            <span class="price">$309</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA NORTEÑA</h3>
@@ -750,7 +750,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/chicago.jpeg" alt="Chicago">
-                            <span class="price">$495</span>
+                            <span class="price">$499</span>
                         </div>
                         <div class="menu-info">
                             <h3>CHICAGO</h3>
@@ -761,7 +761,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/chicagolovers.jpeg" alt="Chicago Pepperoni Lovers">
-                            <span class="price">$495</span>
+                            <span class="price">$499</span>
                         </div>
                         <div class="menu-info">
                             <h3>CHICAGO PEPPERONI LOVERS</h3>
@@ -772,7 +772,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/rellena.jpeg" alt="Pizza Rellena">
-                            <span class="price">$395</span>
+                            <span class="price">$399</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA RELLENA</h3>
@@ -783,7 +783,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/rellnasintapa.jpeg" alt="Pizza Rellena Pepperoni Lovers">
-                            <span class="price">$395</span>
+                            <span class="price">$399</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA RELLENA (SIN TAPA)</h3>
@@ -818,7 +818,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/phi1.jpeg" alt="PIZZA PHILADELPHIA 1">
-                            <span class="price">$259</span>
+                            <span class="price">$269</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA PHILADELPHIA 1</h3>
@@ -829,7 +829,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/phi2.jpeg" alt="PIZZA PHILADELPHIA 2">
-                            <span class="price">$279</span>
+                            <span class="price">$289</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA PHILADELPHIA 2</h3>
@@ -840,7 +840,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/phibon.jpeg" alt="PIZZA PHILADELPHIA PEPPERONI LOVERS">
-                            <span class="price">$319</span>
+                            <span class="price">$329</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA PHILADELPHIA PEPPERONI LOVERS</h3>
@@ -851,7 +851,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/phibon.jpeg" alt="PIZZA PHILADELPHIA PEPPERONI LOVERS">
-                            <span class="price">$319</span>
+                            <span class="price">$329</span>
                         </div>
                         <div class="menu-info">
                             <h3>PIZZA PHILADELPHIA BONELESS</h3>
