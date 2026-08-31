@@ -47,7 +47,7 @@
             </div>
             
             <ul class="nav-links">
-                <li><a href="index.php">Promociones</a></li>
+                <li><a href="index.php">Galería de fotos</a></li>
                 <li><a href="menu.php">Menú</a></li>
                 <li><a href="experiencias.php">Experiencias</a></li>
                 <li><a href="contacto.php">Haz tu evento</a></li>
