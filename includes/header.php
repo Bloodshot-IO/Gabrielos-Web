@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gabrielos Pizza Artesanal | <?php echo isset($page_title) ? $page_title : 'Bienvenido'; ?></title>
     
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=<?php echo @filemtime(dirname(__DIR__) . '/styles.css') ?: '1'; ?>">
     
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>

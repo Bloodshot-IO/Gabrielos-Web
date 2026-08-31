@@ -16,7 +16,7 @@
         <span>¡Deja tu reseña!</span>
     </a>
 
-    <script src="main.js" defer></script>
-    <script src="analytics-events.js" defer></script>
+    <script src="main.js?v=<?php echo @filemtime(dirname(__DIR__) . '/main.js') ?: '1'; ?>" defer></script>
+    <script src="analytics-events.js?v=<?php echo @filemtime(dirname(__DIR__) . '/analytics-events.js') ?: '1'; ?>" defer></script>
 </body>
 </html>
