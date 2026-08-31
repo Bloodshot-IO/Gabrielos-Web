@@ -47,13 +47,10 @@
             </div>
             
             <ul class="nav-links">
+                <li><a href="index.php">Galería de fotos</a></li>
                 <li><a href="menu.php">Menú</a></li>
                 <li><a href="experiencias.php">Experiencias</a></li>
-                <li><a href="contacto.php">Contacto</a></li>
+                <li><a href="contacto.php">Haz tu evento</a></li>
             </ul>
-            
-            <div class="hamburger">
-                <i class="fas fa-bars"></i>
-            </div>
         </div>
     </nav>

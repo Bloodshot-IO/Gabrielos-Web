@@ -100,33 +100,6 @@
         </div>
     </section>
 
-    <section class="section-padding bg-black" id="eventos">
-        <div class="container grid-2">
-            
-            <div class="text-column fade-in-left">
-                <h2 class="section-title">CELEBRA TUS <span class="text-gold">EVENTOS</span></h2>
-                
-                <p>Haz de tus fechas especiales un momento inolvidable. Nuestro espacio es el escenario ideal para reuniones, cumpleaños, posadas y reuniones corporativas. Ofrecemos un ambiente cálido, privacidad y la mejor pizza artesanal.</p>
-
-                <div class="reservation-box-dark">
-                    <strong><i class="fas fa-calendar-check"></i> Política de Reservas</strong>
-                    <p style="margin:0; font-size: 0.95rem; color: #ccc;">
-                        Las reservaciones se gestionan exclusivamente para <b>grupos de 30 a 50 personas</b>. Si tu grupo es menor, acude directamente y te asignaremos mesa por orden de llegada.
-                    </p>
-                </div>
-
-                <a href="https://wa.me/528123878321" target="_blank" class="btn btn-outline">RESERVAR EVENTO</a>
-            </div>
-
-            <div class="image-column fade-in-right">
-                <div class="event-img-wrapper">
-                    <img loading="lazy" src="imgmain/reserva.jpeg" alt="Evento privado en Gabrielos Pizza" class="event-img-offset">
-                </div>
-            </div>
-
-        </div>
-    </section>
-
-<?php 
-    include 'includes/footer.php'; 
+<?php
+    include 'includes/footer.php';
 ?>
