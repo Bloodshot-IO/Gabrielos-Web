@@ -1049,7 +1049,7 @@
 
                     <div class="menu-item fade-in-up" data-category="Wings & Boneless">
                         <div class="menu-img">
-                            <img loading="lazy" src="" alt="Tenders">
+                            <img loading="lazy" src="imgmenu/pizzasarte/tenders3pz.jpeg" alt="Tenders 3 piezas">
                             <span class="price">$129</span>
                         </div>
                         <div class="menu-info">
@@ -1060,7 +1060,7 @@
 
                     <div class="menu-item fade-in-up" data-category="Wings & Boneless">
                         <div class="menu-img">
-                            <img loading="lazy" src="" alt="Tenders">
+                            <img loading="lazy" src="imgmenu/pizzasarte/tenders5pz.jpeg" alt="Tenders 5 piezas">
                             <span class="price">$189</span>
                         </div>
                         <div class="menu-info">
@@ -1320,6 +1320,16 @@
                         </div>
                         <div class="menu-info">
                             <h3>AGUA DE SANDÍA (500ml)</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
+                        <div class="menu-img">
+                            <img loading="lazy" src="imgmenu/pizzasarte/aguamelon.jpeg" alt="Agua de Melón">
+                            <span class="price">$40</span>
+                        </div>
+                        <div class="menu-info">
+                            <h3>AGUA DE MELÓN (500ml)</h3>
                             <p></p>
                         </div>
                     </div>
