@@ -401,9 +401,7 @@
                 <div class="promo-banner">
                     <div class="promo-corners"></div>
                     
-                    <video class="promo-banner-img" autoplay muted loop playsinline preload="metadata">
-                        <source src="imgmenu/pizzasarte/video_publicidad_gabrielos.mp4" type="video/mp4">
-                    </video>
+                    <img class="promo-banner-img" src="imgmenu/pizzasarte/promochida.jpeg" alt="Promoción destacada Gabrielo's">
                     <div class="promo-vignette"></div>
                     <div class="promo-shimmer"></div>
                     
