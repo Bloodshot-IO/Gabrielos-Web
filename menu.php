@@ -1245,42 +1245,6 @@
 
                     <div class="menu-item fade-in-up" data-category="Postres">
                         <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/tortu.jpeg" alt="Cheesecake Tortuga">
-                            <span class="price">$95</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>CHEESECAKE TORTUGA</h3>
-                            <p></p>
-                        </div>
-                    </div>
-
-                    <div class="menu-item fade-in-up" data-category="Postres">
-                        <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/pay.jpeg" alt="Cheesecake Tortuga">
-                            <span class="price">$89</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>PAY DE LIMÓN</h3>
-                            <p></p>
-                        </div>
-                    </div>
-
-
-
-
-                    <div class="menu-item fade-in-up" data-category="Postres">
-                        <div class="menu-img">
-                            <img loading="lazy" src="imgmenu/pizzasarte/oreo.jpg" alt="Pastel de Nieve Oreo">
-                            <span class="price">$119</span>
-                        </div>
-                        <div class="menu-info">
-                            <h3>PASTEL DE NIEVE OREO</h3>
-                            <p></p>
-                        </div>
-                    </div>
-
-                    <div class="menu-item fade-in-up" data-category="Postres">
-                        <div class="menu-img">
                             <img loading="lazy" src="" alt="Galleta">
                             <span class="price">$20</span>
                         </div>
@@ -1408,9 +1372,7 @@
                         </div>
                         <div class="cerveza-list">
                             <div class="cerveza-row"><span class="cerveza-name">Jugo de Manzana <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Jugo de Durazno <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Jugo de Naranja <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$35</span></div>
-                            <div class="cerveza-row"><span class="cerveza-name">Fuzetea Limón <span class="cerveza-ml">(355ml)</span></span><span class="cerveza-price">$35</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Agua Embotellada <span class="cerveza-ml">(500ml)</span></span><span class="cerveza-price">$25</span></div>
                             <div class="cerveza-row"><span class="cerveza-name">Café Frío</span><span class="cerveza-price">$65</span></div>
                         </div>
