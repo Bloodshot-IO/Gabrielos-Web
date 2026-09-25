@@ -1213,33 +1213,33 @@
                     <div class="menu-item fade-in-up" data-category="Ensaladas">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ensalada_gabrielos.jpeg" alt="Ensalada Gabrielos">
-                            <span class="price">$159</span>
+                            <span class="price">$179</span>
                         </div>
                         <div class="menu-info">
                             <h3>ENSALADA GABRIELOS</h3>
-                            <p>Lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, incluye un aderezo de vinagreta por separado.</p>
+                            <p>Lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, ahora con crutones.</p>
                         </div>
                     </div>
 
                     <div class="menu-item fade-in-up" data-category="Ensaladas">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/enspla.jpeg" alt="Ensalada Pollo a la Plancha">
-                            <span class="price">$180</span>
+                            <span class="price">$200</span>
                         </div>
                         <div class="menu-info">
                             <h3>ENSALADA POLLO A LA PLANCHA</h3>
-                            <p>Pollo a la plancha servido sobre una cama de lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, incluye un aderezo de vinagreta por separado.</p>
+                            <p>Pollo a la plancha servido sobre una cama de lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, ahora con crutones.</p>
                         </div>
                     </div>
 
                     <div class="menu-item fade-in-up" data-category="Ensaladas">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/enscruj.jpeg" alt="Ensalada Pollo a la Plancha">
-                            <span class="price">$199</span>
+                            <span class="price">$219</span>
                         </div>
                         <div class="menu-info">
                             <h3>ENSALADA DE POLLO CRUJIENTE</h3>
-                            <p>Pollo crujiente servido sobre una cama de lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, incluye un aderezo de vinagreta por separado.</p>
+                            <p>Pollo crujiente servido sobre una cama de lechuga italiana, tomate, pepino, zanahoria y aguacate, cubierto con queso mozzarella, ahora con crutones.</p>
                         </div>
                     </div>
 
