@@ -748,7 +748,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/chicago.jpeg" alt="Chicago">
-                            <span class="price">$499</span>
+                            <span class="price">$549</span>
                         </div>
                         <div class="menu-info">
                             <h3>CHICAGO</h3>
@@ -971,7 +971,7 @@
                     <div class="menu-item fade-in-up" data-category="Pastas">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ajo.jpeg" alt="Pan de Ajo (1 pz)">
-                            <span class="price">$15</span>
+                            <span class="price">$25</span>
                         </div>
                         <div class="menu-info">
                             <h3>PAN DE AJO (1 PZ)</h3>
@@ -982,11 +982,11 @@
                     <div class="menu-item fade-in-up" data-category="Pastas">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ajo.jpeg" alt="Pan de Ajo con Pasta (1 pz)">
-                            <span class="price">$10</span>
+                            <span class="price">$20</span>
                         </div>
                         <div class="menu-info">
                             <h3>PAN DE AJO CON PASTA (1 PZ)</h3>
-                            <p>En la compra de una pasta o spaghetti llevate la pieza de pan en $10</p>
+                            <p>En la compra de una pasta o spaghetti llevate la pieza de pan en $20</p>
                         </div>
                     </div>
 
@@ -1125,7 +1125,7 @@
                     <div class="menu-item fade-in-up" data-category="Spaghettis">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ajo.jpeg" alt="Pan de Ajo (1 pz)">
-                            <span class="price">$15</span>
+                            <span class="price">$25</span>
                         </div>
                         <div class="menu-info">
                             <h3>PAN DE AJO (1 PZ)</h3>
@@ -1136,7 +1136,7 @@
                     <div class="menu-item fade-in-up" data-category="Spaghettis">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/ajo.jpeg" alt="Pan de Ajo con Spaghetti (1 pz)">
-                            <span class="price">$10</span>
+                            <span class="price">$20</span>
                         </div>
                         <div class="menu-info">
                             <h3>PAN DE AJO CON SPAGHETTI (1 PZ)</h3>
