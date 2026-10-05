@@ -759,7 +759,7 @@
                     <div class="menu-item fade-in-up" data-category="Especialidades">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/chicagolovers.jpeg" alt="Chicago Pepperoni Lovers">
-                            <span class="price">$499</span>
+                            <span class="price">$549</span>
                         </div>
                         <div class="menu-info">
                             <h3>CHICAGO PEPPERONI LOVERS</h3>
