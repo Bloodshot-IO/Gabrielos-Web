@@ -1265,6 +1265,39 @@
                         </div>
                     </div>
 
+                    <div class="menu-item fade-in-up" data-category="Postres">
+                        <div class="menu-img">
+                            <img loading="lazy" src="imgmenu/pizzasarte/pastel_oreo.jpeg" alt="Pastel oreo">
+                            <span class="price">$119</span>
+                        </div>
+                        <div class="menu-info">
+                            <h3>PASTEL OREO</h3>
+                            <p>Base de delicioso helado con centro de crujiente galleta Oreo.</p>
+                        </div>
+                    </div>
+
+                    <div class="menu-item fade-in-up" data-category="Postres">
+                        <div class="menu-img">
+                            <img loading="lazy" src="imgmenu/pizzasarte/helado_chocolate.jpeg" alt="Helado chocolate">
+                            <span class="price">$119</span>
+                        </div>
+                        <div class="menu-info">
+                            <h3>HELADO CHOCOLATE</h3>
+                            <p>Base de helado de chocolate con centro crujiente de galleta de chocolate.</p>
+                        </div>
+                    </div>
+
+                    <div class="menu-item fade-in-up" data-category="Postres">
+                        <div class="menu-img">
+                            <img loading="lazy" src="imgmenu/pizzasarte/pastel_fresa.jpeg" alt="Helado de pay de queso y fresa">
+                            <span class="price">$119</span>
+                        </div>
+                        <div class="menu-info">
+                            <h3>HELADO DE PAY DE QUESO Y FRESA</h3>
+                            <p>Base de helado de vainilla con centro de fresa y trozos de pay de queso.</p>
+                        </div>
+                    </div>
+
                     <div class="menu-item fade-in-up" data-category="Bebidas sin alcohol">
                         <div class="menu-img">
                             <img loading="lazy" src="imgmenu/pizzasarte/limonadafrutosrojos.jpeg" alt="Limonada de Frutos Rojos">
